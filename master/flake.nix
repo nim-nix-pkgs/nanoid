@@ -11,7 +11,6 @@
   inputs.src-nanoid-master.ref   = "refs/heads/master";
   inputs.src-nanoid-master.owner = "icyphox";
   inputs.src-nanoid-master.repo  = "nanoid.nim";
-  inputs.src-nanoid-master.dir   = "";
   inputs.src-nanoid-master.type  = "github";
   
   inputs."random".owner = "nim-nix-pkgs";
